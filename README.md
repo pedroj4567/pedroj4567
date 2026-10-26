@@ -44,9 +44,18 @@ I integrate AI into both the products I build and the way I build them: **agenti
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ## 🕹️ Featured projects
-- **[Project name](link)** — one line on the problem it solves and the stack
-- **[Project name](link)** — ...
-- **[Project name](link)** — ...
+
+**[Antorcha — Essentials English](link)** ![In progress](https://img.shields.io/badge/status-in%20progress-F59E0B?style=flat-square)  
+Mobile app for learning English, built around a structured course with theory and exercises. Go (Fiber) backend with onion architecture + MongoDB.
+
+**[SIGATECH App](link)** ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square)  
+Mobile app that reads a 7-in-1 soil sensor, capturing seven soil parameters in a single reading to support soil studies in the field.
+
+**[Disart Energy](link)** ![EV charging](https://img.shields.io/badge/EV%20charging-OCPP-16A34A?style=flat-square)  
+Admin panel to manage and control EV charging stations over OCPP, plus a backend for the mobile app customers use to charge their vehicles. NestJS, MongoDB, Redis, AWS.
+
+**[Somos Norte](link)** ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)  
+Progressive Web App — installable, fast and ready to work on any device.
 
 ## 📫 Contact
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white)](https://pacostadev.netlify.app)
