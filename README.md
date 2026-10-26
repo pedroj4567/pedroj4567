@@ -4,7 +4,7 @@
 
 ![Experience](https://img.shields.io/badge/Experience-5%2B%20years-2ea44f?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Backend-0A66C2?style=for-the-badge)
-![Location](https://img.shields.io/badge/Remote-Colombia%20(UTC--5)-555?style=for-the-badge)
+![Location](https://img.shields.io/badge/Remote-LATAM%20%C2%B7%20Caracas%20(UTC--4)-555?style=for-the-badge)
 
 With **5+ years of experience**, I understand, plan, build and improve backend systems across **serverless, monolithic and microservices architectures**, from the first design decision to production and the improvements that come after. I care about systems that scale, stay reliable and are easy for the next engineer to work with. At Yummy Rides I built identity verification (biometrics + ID document validation). Take a look around and, if you like what you see, let's talk. 👾
 
